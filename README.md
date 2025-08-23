@@ -17,32 +17,47 @@
 
 <br>
 
-<!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Experience</h2>
 
-<table width="100%" style="text-align: center;">
-  <tr>
-    <td width="33%">
-      <img src="https://github.com/samanthachang/samanthachang/blob/main/assets/cedars-logo.png" width="80" />
-      <h3>AI Intern</h3>
-      <p><b>Cedars-Sinai Medical Center</b><br>June 2025 – Present</p>
-      <p style="font-size:14px;">Built a RAG pipeline to process hospital notes. Integrated SQL, AWS, Azure into live physician systems.</p>
-    </td>
-    <td width="33%">
-      <img src="https://github.com/samanthachang/samanthachang/blob/main/assets/ey-logo.png" width="80" />
-      <h3>AI & Finance Intern</h3>
-      <p><b>Ernst & Young</b><br>Spring 2025</p>
-      <p style="font-size:14px;">Explored AI in fintech through technical bootcamps and prototyping tools for decision-making in finance.</p>
-    </td>
-    <td width="33%">
-      <img src="https://github.com/samanthachang/samanthachang/blob/main/assets/appstore-logo.png" width="80" />
-      <h3>iOS Developer</h3>
-      <p><b>Apple App Store</b><br>May 2020 – Present</p>
-      <p style="font-size:14px;">Built 8 iOS apps using SwiftUI, Core ML, ARKit. Managed App Store Connect, TestFlight, and releases.</p>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
+  <!-- Panel 1 -->
+  <div style="flex: 0 0 220px; border: 1px solid #ddd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: center;">
+    <img src="https://github.com/samanthachang/samanthachang/blob/main/assets/cedars-logo.png" width="60">
+    <h4 style="margin: 10px 0 4px;">AI Intern</h4>
+    <p style="margin: 0; font-weight: bold;">Cedars-Sinai</p>
+    <p style="margin: 4px 0; font-size: 13px; color: #555;">Jun 2025 – Present</p>
+    <p style="font-size: 13px;">Built LLM+RAG system for hospital notes. Integrated with SQL, S3, and Azure into live systems.</p>
+  </div>
+
+  <!-- Panel 2 -->
+  <div style="flex: 0 0 220px; border: 1px solid #ddd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: center;">
+    <img src="https://github.com/samanthachang/samanthachang/blob/main/assets/ey-logo.png" width="60">
+    <h4 style="margin: 10px 0 4px;">AI & Finance Intern</h4>
+    <p style="margin: 0; font-weight: bold;">Ernst & Young</p>
+    <p style="margin: 4px 0; font-size: 13px; color: #555;">Spring 2025</p>
+    <p style="font-size: 13px;">Explored AI in finance. Prototyped tools for decision support using real market data.</p>
+  </div>
+
+  <!-- Panel 3 -->
+  <div style="flex: 0 0 220px; border: 1px solid #ddd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: center;">
+    <img src="https://github.com/samanthachang/samanthachang/blob/main/assets/appstore-logo.png" width="60">
+    <h4 style="margin: 10px 0 4px;">iOS Developer</h4>
+    <p style="margin: 0; font-weight: bold;">Apple App Store</p>
+    <p style="margin: 4px 0; font-size: 13px; color: #555;">2020 – Present</p>
+    <p style="font-size: 13px;">Published 8 iOS apps with 50K+ downloads. Managed end-to-end development and release.</p>
+  </div>
+
+  <!-- Panel 4 -->
+  <div style="flex: 0 0 220px; border: 1px solid #ddd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: center;">
+    <img src="https://github.com/samanthachang/samanthachang/blob/main/assets/swift-award.png" width="60">
+    <h4 style="margin: 10px 0 4px;">Swift Student Challenge</h4>
+    <p style="margin: 0; font-weight: bold;">Apple</p>
+    <p style="margin: 4px 0; font-size: 13px; color: #555;">Winner – 2022</p>
+    <p style="font-size: 13px;">Selected for innovation in Swift development. Recognized by Apple’s WWDC scholarship program.</p>
+  </div>
+
+</div>
 <br>
 
 <!-- PROJECTS SECTION -->
