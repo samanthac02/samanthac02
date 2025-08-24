@@ -1,8 +1,4 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="assets/caltech_banner.png" width="100%" alt="banner">
-</p>
-
 <h1 align="center">Samantha Chang</h1>
 
 <p align="center">
@@ -17,13 +13,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/samanthachang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
 
-## 💼 Experience
+## 💼 Work Experience
 
 <table>
   <tr>
@@ -61,26 +56,27 @@
 ---
 
 ## 🚀 Featured Projects
+<p align="center">
+  <img src="assets/apps.png" alt="My apps" width="500">
+</p>
+
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/habittracker.png" width="100"><br>
-      <strong>Cedars-Sinai Assistant</strong><br>
-      Daily habit app with reminders and streaks using SwiftUI.<br>
-      <a href="https://apps.apple.com/app/id000000">App Store →</a>
+      <img src="assets/cedars_app.png" width="100"><br>
+      <strong>Physician Assistant for Cedars-Sinai</strong><br>
+      iOS app that transcribes and summarizes patient appoints with an LLM.<br>
     </td>
     <td align="center" width="33%">
       <img src="assets/puzzlegame.png" width="100"><br>
       <strong>ScrollType</strong><br>
-      Minimalist puzzle game built with UIKit and custom animations.<br>
-      <a href="https://apps.apple.com/app/id000000">App Store →</a>
+      User-friendly texting app for Apple Watch users.<br>
     </td>
     <td align="center" width="33%">
       <img src="assets/ocrtool.png" width="100"><br>
       <strong>Epic Word Trip</strong><br>
-      OCR utility powered by VisionKit and Core ML for iOS.<br>
-      <a href="https://github.com/samanthachang/SmartOCR">GitHub →</a>
+      Wordle-inspired game played by scanning license plates and signs on road trips. 🏆 Apple Swift Challenge Winner, 2022 <br>
     </td>
   </tr>
 
@@ -88,8 +84,7 @@
     <td align="center" width="33%">
       <img src="assets/scheduler.png" width="100"><br>
       <strong>Youth Voter</strong><br>
-      Calendar app with Pomodoro-style productivity sessions.<br>
-      <a href="https://apps.apple.com/app/id000000">App Store →</a>
+      Resource for encouraging teens to register to vote. 🏆 Congressional App Challenge 2nd place, 2021 <br>
     </td>
     <td align="center" width="33%">
       <img src="assets/argame.png" width="100"><br>
