@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/cedars_logo.png" width="60"><br>
+      <img src="assets/cedars_logo.jpeg" width="60"><br>
       <strong>AI Intern</strong><br>
       Cedars-Sinai Medical Center<br>
       <em>June 2025 – Present</em><br>
