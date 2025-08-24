@@ -28,7 +28,7 @@
     <td align="center" width="25%">
       <img src="assets/cedars_logo.jpeg" width="60"><br>
       <strong>AI Intern</strong><br>
-      Cedars-Sinai Medical Center<br>
+      Cedars-Sinai <br>
       <em>June 2025 – Present</em><br>
       Built an LLM-powered pipeline to extract elements from clinical notes and integrated into real-life hospital systems.
     </td>
