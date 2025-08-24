@@ -15,6 +15,9 @@
   <a href="https://github.com/samanthachang">
     <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://drive.google.com/drive/folders/1gk-i-EAg5V_TbCxuOp4jeA0hsvZPL86V?usp=share_link">
+    <img src="https://img.shields.io/badge/App%20Portfolio-0077B5?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
 </p>
 
 
@@ -66,7 +69,7 @@
     <td align="center" width="33%">
       <img src="assets/cedars_app.png" width="100"><br>
       <strong>Physician Assistant for Cedars-Sinai</strong><br>
-      iOS app that transcribes and summarizes patient appoints with an LLM.<br>
+      Transcribes and summarizes patient notes with an LLM.<br>
     </td>
     <td align="center" width="33%">
       <img src="assets/puzzlegame.png" width="100"><br>
@@ -88,15 +91,13 @@
     </td>
     <td align="center" width="33%">
       <img src="assets/argame.png" width="100"><br>
-      <strong>Placeholder</strong><br>
-      ARKit-based physics game for balance and spatial control.<br>
-      <a href="https://github.com/samanthachang/ARBalance">GitHub →</a>
+      <strong>Drowning Detection Assistant</strong><br>
+      Connects with drowning detection device via Bluetooth to report signs of drowning. 🏆 $7,500 grant recipient from Lemelson-MIT<br>
     </td>
     <td align="center" width="33%">
       <img src="assets/chattool.png" width="100"><br>
-      <strong>Placeholder</strong><br>
-      LLM + RAG chat tool for summarizing clinical notes.<br>
-      <a href="https://github.com/samanthachang/GPTNotes">GitHub →</a>
+      <strong>ScrollPhrase</strong><br>
+      Allows easy sending of pre-written messages on Apple Watch.<br>
     </td>
   </tr>
 </table>
