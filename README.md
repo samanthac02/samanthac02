@@ -59,10 +59,6 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <img src="assets/apps.png" alt="My apps" width="500">
-</p>
-
 
 <table>
   <tr>
