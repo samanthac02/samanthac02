@@ -63,37 +63,49 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/cedars_app.png" width="100"><br>
-      <strong>Physician Assistant for Cedars-Sinai</strong><br>
-      Transcribes and summarizes patient notes with an LLM.<br>
+      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+        <img src="assets/cedars_app.png" width="100"><br>
+        <strong>Physician Assistant for Cedars-Sinai</strong><br>
+        Transcribes and summarizes patient notes with an LLM.<br>
+      </div>
     </td>
     <td align="center" width="33%">
-      <img src="assets/puzzlegame.png" width="100"><br>
-      <strong>ScrollType</strong><br>
-      User-friendly texting app for Apple Watch users.<br>
+      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+        <img src="assets/scroll_type.jpg" width="100"><br>
+        <strong>ScrollType</strong><br>
+        User-friendly texting app for Apple Watch users.<br>
+      </div>
     </td>
     <td align="center" width="33%">
-      <img src="assets/ocrtool.png" width="100"><br>
-      <strong>Epic Word Trip</strong><br>
-      Wordle-inspired game played by scanning license plates and signs on road trips. 🏆 Apple Swift Challenge Winner, 2022 <br>
+      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+        <img src="assets/epic_word_trip.png" width="100"><br>
+        <strong>Epic Word Trip</strong><br>
+        Wordle-inspired game played by scanning license plates and signs on road trips. 🏆 Apple Swift Challenge Winner, 2022 <br>
+      </div>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="33%">
-      <img src="assets/scheduler.png" width="100"><br>
-      <strong>Youth Voter</strong><br>
-      Resource for encouraging teens to register to vote. 🏆 Congressional App Challenge 2nd place, 2021 <br>
+      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+        <img src="assets/youth_voter.jpg" width="100"><br>
+        <strong>Youth Voter</strong><br>
+        Resource for encouraging teens to register to vote. 🏆 Congressional App Challenge 2nd place, 2021 <br>
+      </div>
     </td>
     <td align="center" width="33%">
-      <img src="assets/argame.png" width="100"><br>
-      <strong>Drowning Detection Assistant</strong><br>
-      Connects with drowning detection device via Bluetooth to report signs of drowning. 🏆 $7,500 grant recipient from Lemelson-MIT<br>
+      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+        <img src="assets/drowning_detection_app.jpg" width="100"><br>
+        <strong>Drowning Detection Assistant</strong><br>
+        Connects with drowning detection device via Bluetooth to report signs of drowning. 🏆 $7,500 grant recipient from Lemelson-MIT<br>
+      </div>
     </td>
     <td align="center" width="33%">
-      <img src="assets/chattool.png" width="100"><br>
-      <strong>ScrollPhrase</strong><br>
-      Allows easy sending of pre-written messages on Apple Watch.<br>
+      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
+        <img src="assets/scroll_phrase.png" width="100"><br>
+        <strong>ScrollPhrase</strong><br>
+        Allows easy sending of pre-written messages on Apple Watch.<br>
+      </div>
     </td>
   </tr>
 </table>
+
