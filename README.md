@@ -2,10 +2,14 @@
 <h1 align="center">Hi! 👋 My name is Samantha Chang</h1>
 
 <p align="center">
-  Caltech CS + Applied Math Student • AI Intern @ Cedars-Sinai Medical Center • iOS Developer (50,000+ App Store Downloads)
+  I am a passionate iOS app developer at heart, starting my app development journey in middle school! From my past 5+ years of iOS app develop experience, I am very proud to have fully developed the production of dozens of apps from idea to publication, marketing, and management with **8 iOS apps** published on the App Store :)
 </p>
 
-I am a passionate iOS app developer at heart, starting my app development journey in middle school! From my past 5+ years of iOS app develop experience, I am very proud to have fully developed the production of dozens of apps from idea to publication, marketing, and management with **8 iOS apps** published on the App Store :)
+--- 
+
+<p align="center">
+Caltech CS + Applied Math Student • AI Intern @ Cedars-Sinai Medical Center • iOS Developer (50,000+ App Store Downloads)
+</p>
 
 <p align="center">
   <a href="mailto:you@example.com">
