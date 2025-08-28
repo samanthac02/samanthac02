@@ -20,44 +20,6 @@
   </a>
 </p>
 
-
-## 💼 Work Experience
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="assets/cedars_logo.jpeg" width="60"><br>
-      <strong>AI Intern</strong><br>
-      Cedars-Sinai <br>
-      <em>June 2025 – Present</em><br>
-      Built an LLM-powered pipeline to extract elements from clinical notes and integrated into real-life hospital systems.
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/apple_logo.svg" width="60"><br>
-      <strong>iOS Developer</strong><br>
-      Apple App Store<br>
-      <em>2020 – Present</em><br>
-      Published 8 apps with 50K+ downloads. Designed and released full-stack Swift apps independently.
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/caltech_logo.png" width="60"><br>
-      <strong>AI Research Fellow</strong><br>
-      Caltech<br>
-      <em>June 2025 – Present</em><br>
-      Co-author on 3 papers. Analyzed LLM-based persuasion using statistical methods on large datasets.
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/ey_logo.png" width="60"><br>
-      <strong>Expedition Intern</strong><br>
-      Ernst & Young<br>
-      <em>Mar 2025 – Jun 2025</em><br>
-      Completed bootcamps in finance and AI. Explored real-world use cases in market intelligence.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -109,3 +71,39 @@
   </tr>
 </table>
 
+---
+
+## 💼 Work Experience
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="assets/cedars_logo.jpeg" width="60"><br>
+      <strong>AI Intern</strong><br>
+      Cedars-Sinai <br>
+      <em>June 2025 – Present</em><br>
+      Built an LLM-powered pipeline to extract elements from clinical notes and integrated into real-life hospital systems.
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/apple_logo.svg" width="60"><br>
+      <strong>iOS Developer</strong><br>
+      Apple App Store<br>
+      <em>2020 – Present</em><br>
+      Published 8 apps with 50K+ downloads. Designed and released full-stack Swift apps independently.
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/caltech_logo.png" width="60"><br>
+      <strong>AI Research Fellow</strong><br>
+      Caltech<br>
+      <em>June 2025 – Present</em><br>
+      Co-author on 3 papers. Analyzed LLM-based persuasion using statistical methods on large datasets.
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/ey_logo.png" width="60"><br>
+      <strong>Expedition Intern</strong><br>
+      Ernst & Young<br>
+      <em>Mar 2025 – Jun 2025</em><br>
+      Completed bootcamps in finance and AI. Explored real-world use cases in market intelligence.
+    </td>
+  </tr>
+</table>
