@@ -25,48 +25,42 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
-        <img src="assets/cedars_app.png" width="100"><br>
-        <strong>Physician Assistant for Cedars-Sinai</strong><br>
-        Transcribes and summarizes patient notes with an LLM.<br>
-      </div>
+      <img src="assets/cedars_app.png" width="100"><br>
+      <strong>Physician Assistant for Cedars-Sinai</strong><br>
+      Transcribes and summarizes patient notes with an LLM.<br>
+      <a href="https://github.com/samanthac02/Physician-Assistant">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
-      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
-        <img src="assets/scroll_type.jpg" width="100"><br>
-        <strong>ScrollType</strong><br>
-        User-friendly texting app for Apple Watch users.<br>
-      </div>
+      <img src="assets/scroll_type.jpg" width="100"><br>
+      <strong>ScrollType</strong><br>
+      User-friendly texting app for Apple Watch users.<br>
+      <a href="https://github.com/samanthac02/Scroll-Type">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
-      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
-        <img src="assets/epic_word_trip.png" width="100"><br>
-        <strong>Epic Word Trip</strong><br>
-        Wordle-inspired game played by scanning license plates and signs on road trips. 🏆 Apple Swift Challenge Winner, 2022 <br>
-      </div>
+      <img src="assets/epic_word_trip.png" width="100"><br>
+      <strong>Epic Word Trip</strong><br>
+      Wordle-inspired game played by scanning license plates and signs on road trips. 🏆 Apple Swift Challenge Winner, 2022<br>
+      <a href="https://github.com/samanthac02/Epic-Word-Trip-iOS-App">GitHub Repo</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
-        <img src="assets/youth_voter.jpg" width="100"><br>
-        <strong>Youth Voter</strong><br>
-        Resource for encouraging teens to register to vote. 🏆 Congressional App Challenge 2nd place, 2021 <br>
-      </div>
+      <img src="assets/youth_voter.jpg" width="100"><br>
+      <strong>Youth Voter</strong><br>
+      Resource for encouraging teens to register to vote. 🏆 Congressional App Challenge 2nd place, 2021<br>
+      <a href="https://github.com/samanthac02/Youth-Voter">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
-      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
-        <img src="assets/drowning_detection_app.jpg" width="100"><br>
-        <strong>Drowning Detection Assistant</strong><br>
-        Connects with drowning detection device via Bluetooth to report signs of drowning. 🏆 $7,500 grant recipient from Lemelson-MIT<br>
-      </div>
+      <img src="assets/drowning_detection_app.jpg" width="100"><br>
+      <strong>Drowning Detection Assistant</strong><br>
+      Connects with drowning detection device via Bluetooth to report signs of drowning. 🏆 $7,500 grant recipient from Lemelson-MIT<br>
+      <a href="https://github.com/samanthac02/Drowning-Detection">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
-      <div style="border: 1px solid #ccc; border-radius: 15px; padding: 10px;">
-        <img src="assets/scroll_phrase.png" width="100"><br>
-        <strong>ScrollPhrase</strong><br>
-        Allows easy sending of pre-written messages on Apple Watch.<br>
-      </div>
+      <img src="assets/scroll_phrase.png" width="100"><br>
+      <strong>ScrollPhrase</strong><br>
+      Allows easy sending of pre-written messages on Apple Watch.<br>
+      <a href="https://github.com/samanthac02/Scroll-Phrase">GitHub Repo</a>
     </td>
   </tr>
 </table>
