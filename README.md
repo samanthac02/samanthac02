@@ -2,7 +2,7 @@
 <h1 align="center">Hi! 👋 My name is Samantha Chang</h1>
 
 <p align="center">
-  I am a passionate iOS app developer at heart, starting my app development journey in middle school! From my past 5+ years of iOS app develop experience, I am very proud to have fully developed the production of dozens of apps from idea to publication, marketing, and management with <strong>8 iOS apps</strong><br> published on the App Store :)
+  I am a passionate iOS app developer at heart, starting my app development journey in middle school! From my past 5+ years of iOS app develop experience, I am very proud to have fully developed the production of dozens of apps from idea to publication, marketing, and management with <strong>8 iOS apps</strong> published on the App Store :)
 </p>
 
 --- 
